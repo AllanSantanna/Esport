@@ -25,7 +25,7 @@ git clone https://github.com/AllanSantanna/esport
 # entrar na pasta do projeto back end
 cd server
 yarn or npm install
-yarn or npm rum dev
+yarn or npm run dev
 ```
 
 ## Front end web
@@ -34,7 +34,7 @@ yarn or npm rum dev
 # entrar na pasta do projeto web
 cd web
 yarn or npm install
-yarn or npm rum dev
+yarn or npm run dev
 ```
 
 ## Mobile
